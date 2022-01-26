@@ -1,2 +1,2 @@
 Url :
-https://ty38.github.io/iconnect/
+https://www.iconnect.web.id
