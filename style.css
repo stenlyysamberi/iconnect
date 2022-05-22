@@ -3998,6 +3998,29 @@ body .modal-backdrop {
   background-size: cover;
   background-position: center;
 }
+
+.btn-primaryy{
+  background: #fbc201;
+  padding-right: 50px;
+  padding-left: 50px;
+  color:#282828;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-style: initial;
+  border-radius: 20px;
+}
+
+.btn-secunder{
+  opacity: 0.9;
+  background-color:#0a0a0a;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 15px;
+  color: #F1F1F1;
+  padding-bottom: 15px;
+  font-style: initial;
+  border-radius: 20px;
+}
 .rs-banner.style1 .banner-content {
   max-width: 750px;
   margin: 0 auto;
